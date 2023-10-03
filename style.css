@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    color: rgb(9, 255, 0);
+}
+h2 {
+    text-align:left;
+    color: rgb(190, 202, 13);
+}
+li {
+    text-align: left;
+    color: rgba(50, 202, 8, 0.849);
+}
+
+body {
+    background-image:url('../block05/Animal Pictures/Background.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+p {
+    text-align: center;
+    color: rgb(197, 30, 30);
+    size: 36pp;
+}
